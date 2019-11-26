@@ -1,23 +1,23 @@
 [
   {
-    "vardas" : Tomas,
+    "vardas" : "Toma",
     "lokacija" : true
 
   } ,
   {
-    "vardas" : Zitules,
+    "vardas" : "Zitules",
     "lokacija" : true
   },
   {
-    "vardas" : Tadas,
+    "vardas" : "Tadas",
     "lokacija" : true
   },
   {
-    "vardas" : Agne,
+    "vardas" : "Agne",
     "lokacija" : true
   },
   {
-    "vardas" : Lina,
+    "vardas" : "Lina",
     "lokacija" : false
   }
 
